@@ -1,10 +1,11 @@
 <?php
-/**
- * @SDK 获取短信验证码类
- * @User: 伯仁
- * @Email: boren@ybzf.com
- * @Date: 2015-05-04  
- */
+// 
+//  YibUserGetCodeRequest.php
+//  <project>
+//  
+//  Created by 伯仁 on 2015-05-04.
+//  Copyright 2015 伯仁. All rights reserved.
+// 
 class YibUserGetCodeRequest
 {
     //接收验证码的手机号
